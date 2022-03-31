@@ -33,10 +33,10 @@ body{
 }
 button{
     height: 80px;
-    background-color: gray;
+    background-color: #B4ECE3;
     border: 1px #B4ECE3;
     font-size:32px;
-    color:#fff;
+    color:#AD8B73;
     width: 25%;
     outline:none;
 }
