@@ -1,9 +1,13 @@
+body{
+	background-color: #2C3333;
+}
 .calculator{
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 200px;
-	width: 400px;
-
+	width: 320px;
+	height: 520px;
+	position: absolute;
 }
 
 .number{
@@ -37,18 +41,18 @@
 }
 
 button{
-	height: 80px;
+	height: 70px;
 	background-color: #B4ECE3;
 	border: 0.5px;
-	font-size: 32px;
-	margin: 20px;
+	font-size: 20px;
+	margin: 15px;
 	color: #AD8B73;
-	width: 25%;
+	width: 50%;
 	outline: none;
 }
 
 .all-clear, .zero-btn{
-	width: 60%;
+	width: 50%;
 	background-color: #B4ECE3;
 }
 
